@@ -1,6 +1,6 @@
 # André Yuri — Personal Portfolio
 
-Personal portfolio built with **React + JavaScript + CSS** using Vite
+Personal portfolio built with **React + JavaScript + CSS** using Vite.
 
 ## Run locally
 
