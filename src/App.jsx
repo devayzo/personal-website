@@ -26,6 +26,14 @@ const projects = [
     tags: ['React', 'JavaScript', 'CSS'],
     link: 'https://github.com/devayzo',
   },
+  {
+    title: 'Next Project',
+    description:
+      'Always working on something new. This card will probably be updated later with a new, fresh project.',
+    tags: ['Coming soon'],
+    link: 'https://github.com/devayzo',
+  },
+]
 
 function App() {
   const [menuOpen, setMenuOpen] = useState(false)
