@@ -82,7 +82,7 @@ function App() {
       <main>
         <section className="hero section" id="home">
           <div className="hero-copy reveal">
-            <p className="eyebrow">Systems Analysis & Development Student</p>
+            <p className="eyebrow">System Development Student</p>
 
             <h1>
               Hi, I'm <span>André Yuri.</span>
@@ -92,7 +92,7 @@ function App() {
 
             <p className="hero-text">
               Junior developer from Brazil focused on software development,
-              back-end fundamentals, databases and modern web technologies.
+              front-end fundamentals, databases and modern web technologies.
             </p>
 
             <div className="hero-actions">
