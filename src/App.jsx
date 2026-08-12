@@ -227,8 +227,8 @@ function App() {
           <div className="education-card">
             <div>
               <p className="education-date">Current</p>
-              <h3>Systems Analysis and Development</h3>
-              <p>Technology degree · 2nd semester</p>
+              <h3>Systems Development</h3>
+              <p>Associate's degree · 2nd semester</p>
             </div>
             <span className="education-badge">ADS</span>
           </div>
