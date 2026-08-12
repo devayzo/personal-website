@@ -26,14 +26,6 @@ const projects = [
     tags: ['React', 'JavaScript', 'CSS'],
     link: 'https://github.com/devayzo',
   },
-  {
-    title: 'Next Project',
-    description:
-      'Reserved for your next project. Replace this card with an API, full-stack app, dashboard, game or anything else you build.',
-    tags: ['Coming soon'],
-    link: 'https://github.com/devayzo',
-  },
-]
 
 function App() {
   const [menuOpen, setMenuOpen] = useState(false)
