@@ -10,7 +10,3 @@ npm run dev
 ```
 
 Then open the local URL shown by Vite.
-
-## Build for production
-
-Link: https://devayzo.vercel.app
